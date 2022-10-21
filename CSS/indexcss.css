@@ -1,3 +1,21 @@
-hr{color: blue;}
-h3{margin-left: 100px; color: blue;}
-body{background-image: url("gif_css.gif");}
+hr{color: blue;
+}
+
+h3{margin-left: 250px; 
+	color: blue;
+}
+
+body{background-image: url("gif_css.gif");
+	}
+
+	.primeiro{
+	color: red
+}
+
+.segundo{
+	color:yellowgreen;
+}
+
+#id2{
+	color: green;
+}
